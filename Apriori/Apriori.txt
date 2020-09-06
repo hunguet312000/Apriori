@@ -1,0 +1,17 @@
+a,b,c
+b,c,d
+a,c,d,e
+a,d,e
+a,b,c
+a,b,c,d
+a
+a,b,c
+a,b,d
+b,c,e
+b
+a,c,e
+d,c,e
+d,c,e
+c
+d
+e
